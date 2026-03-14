@@ -25,7 +25,7 @@ A Realidade Aumentada deixou de ser ficção científica para se tornar uma das 
 
 ---
 
-## 💼 Por Que Esta Capacitação é Estratégica para a Sua Carreira?
+## 💼 Por Que Esta Capacitação é Estratégica?
 
 Ingressar no mercado de Realidade Aumentada agora significa **estar na vanguarda de uma transformação tecnológica**. Veja por que a Capacitação em RA da Vertex é um passo inteligente para a sua trajetória profissional:
 
@@ -52,30 +52,21 @@ Startups, agências digitais e grandes empresas brasileiras estão investindo em
 
 ## 📚 Conteúdo da Capacitação
 
-| Módulo | Temas Abordados |
-|--------|----------------|
-| **1 — Fundamentos de RA** | Conceitos de Realidade Aumentada, Mista e Virtual; histórico e tendências |
-| **2 — Ferramentas e Plataformas** | Principais SDKs e frameworks utilizados no desenvolvimento RA |
-| **3 — Desenvolvimento de Projetos** | Criação de experiências RA do zero com foco em usabilidade |
-| **4 — Aplicações por Segmento** | Casos de uso em saúde, educação, varejo, indústria e entretenimento |
-| **5 — Portfólio e Mercado** | Construção de portfólio, networking e estratégias para inserção no mercado |
-
----
-
-## 🚀 Comece Sua Jornada
-
-A Realidade Aumentada não é o futuro — **é o presente**. Empresas ao redor do mundo já estão transformando a maneira como treinam equipes, vendem produtos e prestam serviços com o uso dessa tecnologia.
-
-A **Vertex** oferece a você o conhecimento e as ferramentas para fazer parte desta revolução.
-
-> 💡 *"A melhor hora para entrar em um mercado em crescimento é antes que ele se torne óbvio para todos."*
+|   | Data | Unidade |
+|---|--------|----------------|
+| ✅ | 11/03/2026 | Aula 1 – História e Evolução da Realidade Aumentada |
+| ⛔ | 18/03/2026 | Aula 2 – Fundamentos da Realidade Aumentada |
+| ⛔ | 25/04/2026 | Aula 3 – Princípios de Design para Realidade Aumentada |
+| ⛔ | 01/04/2026 | Aula 4 – Aplicações Básicas de Realidade Aumentada |
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-Este repositório reúne todas as atividades, projetos e exercícios desenvolvidos ao longo da capacitação. Explore as pastas para acompanhar a evolução dos projetos práticos.
+Este repositório reúne todas as atividades, projetos e exercícios desenvolvidos ao longo da capacitação. Explore as branches para acompanhar a evolução dos projetos práticos.
+
+✅ [Atividade 1: Hello World em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/hello-world/Atividades/A1.md)
 
 ---
 
-**Vertex** | Capacitação em Realidade Aumentada
+> 💡 *"A melhor hora para entrar em um mercado em crescimento é antes que ele se torne óbvio para todos."*
