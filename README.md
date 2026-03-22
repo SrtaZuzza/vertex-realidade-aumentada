@@ -25,37 +25,12 @@ A Realidade Aumentada deixou de ser ficção científica para se tornar uma das 
 
 ---
 
-## 💼 Por Que Esta Capacitação é Estratégica?
-
-Ingressar no mercado de Realidade Aumentada agora significa **estar na vanguarda de uma transformação tecnológica**. Veja por que a Capacitação em RA da Vertex é um passo inteligente para a sua trajetória profissional:
-
-### ✅ Alta demanda por profissionais qualificados
-O crescimento veloz do setor criou uma lacuna de talentos: empresas buscam desenvolvedores, designers e gestores com conhecimento prático em RA e dificilmente encontram profissionais com essa formação no mercado.
-
-### ✅ Diferencial competitivo imediato
-Adicionar Realidade Aumentada ao seu portfólio o posiciona à frente de outros candidatos em processos seletivos de tecnologia, design e comunicação.
-
-### ✅ Formação prática e orientada ao mercado
-A capacitação da Vertex é estruturada com projetos reais, permitindo que você construa um portfólio concreto ainda durante o curso — algo fundamental para quem está entrando na área.
-
-### ✅ Versatilidade de atuação
-Com o conhecimento adquirido, você poderá atuar como:
-- Desenvolvedor(a) de aplicações RA para mobile e wearables
-- Designer de experiências imersivas (UX/UI para RA)
-- Consultor(a) de projetos de transformação digital com RA
-- Especialista em RA para treinamentos corporativos
-
-### ✅ Ecossistema em expansão no Brasil
-Startups, agências digitais e grandes empresas brasileiras estão investindo em RA, criando novas oportunidades de emprego e projetos freelance em todo o país.
-
----
-
 ## 📚 Conteúdo da Capacitação
 
 |   | Data | Unidade |
 |---|--------|----------------|
 | ✅ | 11/03/2026 | Aula 1 – História e Evolução da Realidade Aumentada |
-| ⛔ | 18/03/2026 | Aula 2 – Fundamentos da Realidade Aumentada |
+| ✅ | 18/03/2026 | Aula 2 – Fundamentos da Realidade Aumentada |
 | ⛔ | 25/04/2026 | Aula 3 – Princípios de Design para Realidade Aumentada |
 | ⛔ | 01/04/2026 | Aula 4 – Aplicações Básicas de Realidade Aumentada |
 
@@ -65,7 +40,8 @@ Startups, agências digitais e grandes empresas brasileiras estão investindo em
 
 Este repositório reúne todas as atividades, projetos e exercícios desenvolvidos ao longo da capacitação. Explore as branches para acompanhar a evolução dos projetos práticos.
 
-✅ [Atividade 1: Hello World em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/hello-world/Atividades/A1.md)
+✅ [Atividade 1: Hello World em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/hello-world/Atividades/A1.md)  
+✅ [Atividade 2: Uso de Marcadores Visuais em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/marcadores-visuais/Atividades/A2.md)
 
 ---
 
