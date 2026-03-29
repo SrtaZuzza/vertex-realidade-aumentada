@@ -31,7 +31,7 @@ A Realidade Aumentada deixou de ser ficção científica para se tornar uma das 
 |---|--------|----------------|
 | ✅ | 11/03/2026 | Aula 1 – História e Evolução da Realidade Aumentada |
 | ✅ | 18/03/2026 | Aula 2 – Fundamentos da Realidade Aumentada |
-| ⛔ | 25/04/2026 | Aula 3 – Princípios de Design para Realidade Aumentada |
+| ✅ | 25/04/2026 | Aula 3 – Princípios de Design para Realidade Aumentada |
 | ⛔ | 01/04/2026 | Aula 4 – Aplicações Básicas de Realidade Aumentada |
 
 ---
@@ -41,7 +41,8 @@ A Realidade Aumentada deixou de ser ficção científica para se tornar uma das 
 Este repositório reúne todas as atividades, projetos e exercícios desenvolvidos ao longo da capacitação. Explore as branches para acompanhar a evolução dos projetos práticos.
 
 ✅ [Atividade 1: Hello World em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/hello-world/Atividades/A1.md)  
-✅ [Atividade 2: Uso de Marcadores Visuais em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/marcadores-visuais/Atividades/A2.md)
+✅ [Atividade 2: Uso de Marcadores Visuais em Realidade Aumentada](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/marcadores-visuais/Atividades/A2.md)  
+✅ [Atividade 3: Conteúdo Interativo e Múltiplas Animações](https://github.com/SrtaZuzza/vertex-realidade-aumentada/blob/conteudo-interativo/Atividades/A3.md)  
 
 ---
 
